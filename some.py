@@ -17,3 +17,5 @@ print (X)
 
 print(d)
 # this is 2nd commit of new branch
+
+# This is 1st commit after the merge
